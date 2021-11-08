@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(150, 245, 179, 0.5);
+    margin: 0%;
+}
+.cky1{
+     text-align: center;
+}
+.ck123{
+    display: flex;
+
+}
+
+.ck12{
+    font-size: 0.8rem;
+    height: 12rem;
+    margin: 0rem 0.2rem 0rem 0.5rem;
+    width: 50%;
+    text-align: center;
+
+    
+}
+.ck13{
+    font-size: 0.8rem;
+    height: 12rem;
+    margin: 0rem 0.5rem 0rem 0rem;
+    width: 50%;
+    text-align: center;
+    
+}
+.aim12{
+    margin-left: 2.1rem;    
+}
+.con123{
+    margin-left: 2.1rem;
+}

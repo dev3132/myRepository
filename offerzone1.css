@@ -1,0 +1,73 @@
+body{
+    margin: 0%;
+}
+.a0b0c0{
+    background-color: #FFE3E3;
+    height: 3.125rem;
+    width: 100%;
+}
+.a1b1c1{
+    margin: 0rem 0rem 0rem 1.30rem;
+    padding: 0.2em;
+}
+.a1b2c1{
+    background-color:#F3F1F5;
+    margin-top: 0%;    
+    height: 10rem;
+    padding: 0.5rem 0rem 0rem 0.5rem;
+    width: 100%;
+}
+.a1b3{
+    font-size: 1.2rem;
+}
+.a1b3c2{
+    font-size: 1.2rem;
+}
+.or1{
+    text-decoration: none;
+}
+.get20{
+    background-color: #DDF3F5;
+    border-radius: 1rem;
+    border: 1px solid;
+    padding:  0.625rem 0.125rem 0.125rem 0.7rem;
+    display: block;
+    font-size: 1.3rem;
+    position: absolute;
+    top: 8rem;
+    right: 1.8rem;
+    height: 1.75rem;
+    width: 5rem;
+}
+.a2b3{
+    font-size: 1.0rem;
+}
+.get201{
+    background-color: #DDF3F5;
+    border-radius: 1rem;
+    border: 1px solid;
+    padding:  0.625rem 0.125rem 0.125rem 0.7rem;
+    display: block;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 18rem;
+    right: 1.8rem;
+    height: 3.5rem;
+    width: 5rem;
+}
+.get202{
+    background-color:#DDF3F5;
+    border-radius: 1rem;
+    border: 1px solid;
+    display: block;
+    font-size: 1.2rem;
+    position: absolute;
+    padding:  0.625rem 0.125rem 0.125rem 0.7rem;
+    top: 29rem;
+    right: 1.8rem;
+    height: 3.5rem;
+    width: 5rem;
+}
+.a1b3c3{
+    font-size: 1.2rem;
+}

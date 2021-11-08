@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    font-family:  Georgia, serif;
+}
+.con1{
+    background-color:#C0FFB3;
+    height: 3.125rem;
+    margin: 0rem;
+    width: 100%;
+
+}
+.con2{
+    margin: 0rem 0rem 0rem 1.100rem;
+    padding: 0.6rem 0rem 0rem 0rem;
+}
+.con123{
+    font-size: 1.3rem;
+    margin:  0.5rem 0rem 0rem 1.10rem;
+}
+.ct1{
+    background-color:#daffd3;
+    font-size: 1.5rem;
+    height: 8rem;
+    margin-top: 0%;
+    width: 100%;
+}
+.pt1{
+    margin: 0.5rem 0rem 0rem 0rem;
+    padding:  0.4rem 0rem 0rem 1.10rem;
+}
+.c2h2{
+    text-decoration: none;
+    font-size: 1.1rem;
+    border: 1px solid;
+    border-radius: 1rem;
+    margin: 1.3rem 0rem 0rem 1.10rem;
+    padding: 0.1rem 0.1rem 0.1rem 0.1rem;
+    position: absolute;
+    
+    
+}
+.l1c1{
+    font-size: 1.3rem;
+    margin: 1.0rem 0rem 0rem 0.8rem;
+}
+
+
+
+
+
+
+
+
+
+

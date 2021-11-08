@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+}
+.x0y0z0{
+    background-color:#93f78d;
+    height: 3.125rem;
+    width: 375px;
+}
+.x1y0z0{
+    font-size: 2.5rem;
+    margin: 0rem 0rem 0rem 1.30rem;
+    padding: 0.01rem;
+}
+.x1y1{
+    background-color:#BCFFB9;
+    display: flex;
+    width: 375px;
+    height: 11.1rem;  
+    
+}
+.ax1y1{
+    text-decoration: none;
+    
+}
+.x1y2{
+    height: 150px; 
+    width: 50%;
+    padding:1.2rem 1.5rem 1.5rem 1.5rem;
+}
+.y0z0{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 0%;
+
+}
+.hr12{
+    margin: 0%;
+    width: 375px;
+}
+    
+@media only screen and (max-width:500px){
+    .responsive{
+        width: 49.99%;
+        margin: 6px 0;
+    }
+}
